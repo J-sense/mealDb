@@ -1,2 +1,2 @@
 ## Live Link
-Hosted in Vercel -> [restura](https://meal-db-phi.vercel.app/)
+Hosted in Vercel -> [mealDb](https://meal-db-phi.vercel.app/)
